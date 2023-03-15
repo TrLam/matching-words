@@ -3,7 +3,7 @@ import "./App.css";
 
 import CardGrid from "components/CardGrid/CardGrid";
 
-function App() {
+function App(): JSX.Element {
   return <CardGrid />;
 }
 

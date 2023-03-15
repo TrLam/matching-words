@@ -1,3 +1,13 @@
+:root {
+  --light-green: #e6f7ee;
+  --shadow-green: #c3d3c9;
+  --dark-purple: #301150;
+  --purple: #9a6fc2;
+  --light-purple: #ae93c8;
+  --grey: #f2eff0;
+  --alegreya: "Alegreya SC";
+}
+
 html {
   box-sizing: border-box;
 }
